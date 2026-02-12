@@ -4,7 +4,6 @@
 - ![Screenshot: TXN](images/screenshot-2.png)
 - ![Screenshot: TXN](images/screenshot-3.png)
 
-Place your screenshots in the `images/` folder (create it if missing) and name them as above. Replace the image files with the real screenshots; the README will display them automatically.
 
 **Problem Statement**
 
