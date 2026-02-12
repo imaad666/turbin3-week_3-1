@@ -1,8 +1,8 @@
 # NFT Transfers!
 
-- ![Screenshot: TXN](images/screenshot-1.png)
-- ![Screenshot: TXN](images/screenshot-2.png)
-- ![Screenshot: TXN](images/screenshot-3.png)
+- ![Screenshot: TXN](nft-1.png)
+- ![Screenshot: TXN](nft-2.png)
+- ![Screenshot: TXN](nft-3.png)
 
 
 **Problem Statement**
